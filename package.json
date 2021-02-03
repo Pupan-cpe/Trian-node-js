@@ -9,6 +9,7 @@
   "author": "pupan",
   "license": "ISC",
   "dependencies": {
+    "date-fns": "^2.16.1",
     "express": "^4.17.1",
     "mon": "0.0.8",
     "node": "^15.7.0"
